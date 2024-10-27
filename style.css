@@ -1,0 +1,49 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+
+}
+
+.btn{
+    margin: 2.5rem;
+
+    margin-left: 10px;
+    align-content: center;
+    border: 5px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    background-color: antiquewhite;
+}
+
+.btnContainer{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+   
+
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.purpal{
+    background-color:#819ff9;
+}
+.green{
+    background-color: #63aac0;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
